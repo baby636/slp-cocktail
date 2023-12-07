@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@msgpack/msgpack": "^2.0.0",
-    "@psf/bch-js": "^3.5.5",
+    "@psf/bch-js": "^4.15.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
