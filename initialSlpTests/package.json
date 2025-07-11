@@ -16,7 +16,7 @@
   ],
   "author": "KStasi",
   "dependencies": {
-    "@psf/bch-js": "^3.5.5",
+    "@psf/bch-js": "^4.5.2",
     "bitbox-sdk": "^8.11.2",
     "bitcore-lib-cash": "^8.22.2",
     "slp-light": "0.0.1",
